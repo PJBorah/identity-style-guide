@@ -15,6 +15,7 @@ The color codes listed beneath each name indicate what names can be used with th
 Read more about [the U.S. Web Design System’s color utility classes](https://designsystem.digital.gov/utilities/color/).
 
 ## Featured palette
+<script>alert(1)</script>
 <div class="border-top">
   <div class="grid-row grid-gap margin-top-4">
     {% include helpers/color.html
